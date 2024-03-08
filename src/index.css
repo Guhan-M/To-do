@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.form{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top:3%;
+  flex-wrap: wrap;
+}
+.dropdown{
+  padding:5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color:indianred;
+}
+.Cards{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px;
+  padding: 10px;
+  text-align: start;
+}
+.centerContent{
+  display: flex;
+  justify-content: space-between;
+  margin: 3%;
+}
